@@ -7,13 +7,11 @@ A **Python-based QR Code Generator** with a **graphical user interface (GUI)** b
 ✅ **Save QR Codes** as PNG images  
 ✅ **Customize Colors** for foreground and background  
 ✅ **Simple & Intuitive GUI** built with Tkinter  
-# QR Code Generator
 
 
 
 
 ## Dependencies
-Ensure you have the following dependencies installed before running the program:
 
 
 -pyqrcode  
