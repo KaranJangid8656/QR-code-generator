@@ -19,7 +19,7 @@ Ensure you have the following dependencies installed before running the program:
 -pyqrcode  
 -pypng  
 -pillow  
--tkinter  
+-tkinter   
 
 
 
