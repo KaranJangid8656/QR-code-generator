@@ -12,7 +12,7 @@ COLOR_MAP = {
     "white": "#FFFFFF",
     "yellow": "#FFFF00",
     "gray": "#808080",
-    "lightblue": "#ADD8E6"
+    "lightblue": "#ADD8E6" 
 }
 
 def gen_qr():
